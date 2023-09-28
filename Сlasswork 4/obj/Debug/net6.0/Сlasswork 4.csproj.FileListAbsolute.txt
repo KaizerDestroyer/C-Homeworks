@@ -1,0 +1,15 @@
+C:\Users\karim\OneDrive\Рабочий стол\Actual\C# Seminar\Сlasswork 4\obj\Debug\net6.0\Сlasswork 4.csproj.AssemblyReference.cache
+C:\Users\karim\OneDrive\Рабочий стол\Actual\C# Seminar\Сlasswork 4\obj\Debug\net6.0\Сlasswork 4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karim\OneDrive\Рабочий стол\Actual\C# Seminar\Сlasswork 4\obj\Debug\net6.0\Сlasswork 4.AssemblyInfoInputs.cache
+C:\Users\karim\OneDrive\Рабочий стол\Actual\C# Seminar\Сlasswork 4\obj\Debug\net6.0\Сlasswork 4.AssemblyInfo.cs
+C:\Users\karim\OneDrive\Рабочий стол\Actual\C# Seminar\Сlasswork 4\obj\Debug\net6.0\Сlasswork 4.csproj.CoreCompileInputs.cache
+C:\Users\karim\OneDrive\Рабочий стол\Actual\C# Seminar\Сlasswork 4\bin\Debug\net6.0\Сlasswork 4.exe
+C:\Users\karim\OneDrive\Рабочий стол\Actual\C# Seminar\Сlasswork 4\bin\Debug\net6.0\Сlasswork 4.deps.json
+C:\Users\karim\OneDrive\Рабочий стол\Actual\C# Seminar\Сlasswork 4\bin\Debug\net6.0\Сlasswork 4.runtimeconfig.json
+C:\Users\karim\OneDrive\Рабочий стол\Actual\C# Seminar\Сlasswork 4\bin\Debug\net6.0\Сlasswork 4.dll
+C:\Users\karim\OneDrive\Рабочий стол\Actual\C# Seminar\Сlasswork 4\bin\Debug\net6.0\Сlasswork 4.pdb
+C:\Users\karim\OneDrive\Рабочий стол\Actual\C# Seminar\Сlasswork 4\obj\Debug\net6.0\Сlasswork 4.dll
+C:\Users\karim\OneDrive\Рабочий стол\Actual\C# Seminar\Сlasswork 4\obj\Debug\net6.0\refint\Сlasswork 4.dll
+C:\Users\karim\OneDrive\Рабочий стол\Actual\C# Seminar\Сlasswork 4\obj\Debug\net6.0\Сlasswork 4.pdb
+C:\Users\karim\OneDrive\Рабочий стол\Actual\C# Seminar\Сlasswork 4\obj\Debug\net6.0\Сlasswork 4.genruntimeconfig.cache
+C:\Users\karim\OneDrive\Рабочий стол\Actual\C# Seminar\Сlasswork 4\obj\Debug\net6.0\ref\Сlasswork 4.dll

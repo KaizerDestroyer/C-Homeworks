@@ -10,14 +10,18 @@
 // ShowNumbers(5);
 // ---------------------------------------------------
 
-int ShowValuesSum(int n, int m)
-{
-    if (n > m)
-    {
-        return ShowValuesSum(n, m + 1) + m;
-    }
-    return n;
-}
+// Задача 66: Задайте значения M и N. Напишите программу, которая найдёт сумму натуральных элементов в промежутке от M до N.
+// M = 1; N = 15 -> 120
+// M = 4; N = 8. -> 30
 
-int result = ShowValuesSum(10, 5);
-Console.WriteLine(result);
+// int ShowValuesSum(int n, int m)
+// {
+//     if (n > m)
+//     {
+//         return ShowValuesSum(n, m + 1) + m;
+//     }
+//     return n;
+// }
+
+// int result = ShowValuesSum(10, 5);
+// Console.WriteLine(result);
